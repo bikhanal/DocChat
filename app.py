@@ -61,10 +61,10 @@ def sidebar():
         )
         st.markdown(
             "This tool is a work in progress. "
-            "You can contribute to the project on [GitHub](https://github.com/bkhanal-11/DocChat) "
+            "You can contribute to the project on [GitHub](https://github.com/bikhanal/DocChat) "
             "with your feedback and suggestions💡."
         )
-        st.markdown("Made by [Bishwash](https://github.com/bkhanal-11)")
+        st.markdown("Made by [Bishwash](https://github.com/bikhanal)")
         st.markdown("---")
 
 
