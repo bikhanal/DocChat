@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 Follow the following instructions:
 
 ```bash
-git clone https://github.com/bkhanal-11/DocChat.git
+git clone https://github.com/bikhanal/DocChat.git
 cd DocChat
 python3 -m venv venv
 source venv/bin/activate
